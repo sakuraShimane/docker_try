@@ -1,5 +1,5 @@
 # Docker Introduction
-[docker_try](https://github.com/jin237/docker_try) is the repository for Docker Introduction.
+["docker_try"](https://github.com/jin237/docker_try) is the repository for Docker Introduction.
 <br>
 
 
