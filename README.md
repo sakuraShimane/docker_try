@@ -79,6 +79,11 @@ command + p + q
 $ docker restart {CONTAINER_NAME or ID}
 ```
 
+### コミット
+```
+$ docker commit {CONTAINER_NAME or ID} {NEW_Docker_image_NAME}
+```
+
 
 
 
