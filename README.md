@@ -137,6 +137,32 @@ docker run するときにアクセス許可はしてね
 https://hub.docker.com/repositories
 ここにアクセスしてみるとそこでできたリポジトリが反映される．
 
+WSLの環境設定
+＝wsl --installをコマンドで使えるようにする
+[Windows Insider Program](https://docs.microsoft.com/ja-jp/windows/wsl/install-win10#:~:text=%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82-,Windows%20Insider%20Program,-%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%99%E3%82%8B)にアクセス
+1. resister
+2. flight
+3. give feedbackをそれぞれしっかりと行う
+
+2.flightから
+
+install on your indivisual deviceのpreparationについて
+
+To install Windows Insider Preview Builds, you must be running a licensed version of Windows on your device. You can install Windows here if your device is currently running an older version or if you need to buy Windows. If you're having issues installing Windows, you can also download a Windows Insider Preview ISO to get started.
+->windows 10であればいらない
+
+The process of setting up flighting restarts your device during program setup and updating. Make sure you're ready for this, so you don't lose open documents or unsaved work. You might also want to take a picture of these directions or bookmark this page on your browser to get back to it easily.
+-> 作業中のものは保存して閉じておく
+
+
+Installation
+
+[Settings > Update & Security > Windows Insider Program](ms-settings:windowsinsider)を開く．そしたら，スタートして，アカウントリンクを行う．＝自分のmicrosoft accountを選ぶ．
+
+Insider previewを選択：Dev channel
+
+
+
 
 
 
