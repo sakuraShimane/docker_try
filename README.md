@@ -161,8 +161,11 @@ Installation
 
 Insider previewを選択：Dev channel
 
+再起動を行う．
 
+再起動した後，[Settings > Privacy > Diagnostics](https://aka.ms/WIPDataSettings)で適切かどうかを確かめる
 
+[Settings > Update & Security > Windows Update](ms-settings:windowsupdate-action)でプログラムのチェックを行うと，また再起動を要求されるので，する．
 
 
 
